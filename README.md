@@ -1,7 +1,3 @@
-Desigur! Uite versiunea rezumatului fără emojiuri:
-
----
-
 ## Sistem: Joc „Corabia” – Simulare Party Game în C++ cu Interfață Grafică (SFML)
 
 ---
@@ -118,7 +114,3 @@ Variantă grafică completă, cu meniuri și butoane.
 - Reset complet de stare între încercări
 - Modularizare ușoară pentru adăugarea altor reguli sau extensii
 - Contor pentru runde eșuate și afișare scor final
-
----
-
-Dorești să exportăm acest rezumat într-un fișier `.txt` sau `.pdf` pentru documentație sau predare?
